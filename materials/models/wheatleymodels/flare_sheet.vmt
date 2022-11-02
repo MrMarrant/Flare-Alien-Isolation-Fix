@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/wheatleymodels/flare_sheet"
+
+	"$envmap" 			"env_cubemap"
+	"$envmaptint" 			"[ .2 .2 .2 ]"
+}
